@@ -7,6 +7,6 @@ function mostrar()
 	nombre=txtIdNombre.value;
 	edad=txtIdEdad.value;
 
-alert (" Usted se llama " + nombre + " y tiene " + edad + " años ")
+alert ("Usted se llama " + nombre + " y tiene " + edad + " años ")
 
 }
